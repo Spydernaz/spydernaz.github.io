@@ -1,3 +1,9 @@
 body {
-    background-image: url("./404.png")
+    background-image: url("./404.png");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
 }
