@@ -1,0 +1,33 @@
+# Site settings
+title: Nathaniel Vala
+description: 'Business Card Page'
+url: 'https://spydernaz.github.io'
+baseurl: ''
+profilepic: 'https://avatars3.githubusercontent.com/u/7411177?s=460&v=4'
+bkimage: 'https://images.unsplash.com/photo-1503197979108-c824168d51a8?ixlib=rb-1.2.1&auto=format&fit=crop&w=3291&q=80'
+google_analytics: ''
+font_awesome: 'd537894a79.js'
+
+author:
+  name: 'Nathaniel Vala'
+  email: nathanielvala@hotmail.com
+  github_username:  spydernaz
+  linkedin_username:  nathanielvala
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']

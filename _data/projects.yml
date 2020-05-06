@@ -1,0 +1,14 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Docker Images
+  gh_user: spydernaz
+  repo: docker_images
+  img: https://repository-images.githubusercontent.com/218630645/97126980-8faa-11ea-9817-d3bbcb67e6fb
+  desc: A repo of images I create, use and (attempt to) maintain including hadoop POCs and integrations as well as my own images
+
+- name: Peq - A Semantic Fabric
+  gh_user: spydernaz
+  repo: peq
+  img: https://repository-images.githubusercontent.com/261332782/6418a780-8fa3-11ea-9de3-81a7471bcba1
+  desc: Peq is a semantic fabric designed to allow business users to query disparate data sources without needing to know the exact schemas
