@@ -4,7 +4,7 @@
 - name: Docker Images
   gh_user: spydernaz
   repo: docker_images
-  img: https://repository-images.githubusercontent.com/218630645/65a39900-8fbe-11ea-811e-7289134404a0`
+  img: https://repository-images.githubusercontent.com/218630645/65a39900-8fbe-11ea-811e-7289134404a0
   desc: A repo of images I create, use and (attempt to) maintain including hadoop POCs and integrations as well as my own images
 
 - name: Peq - A Semantic Fabric
