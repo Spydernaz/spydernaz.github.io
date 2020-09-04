@@ -4,13 +4,13 @@
 - name: Joke Site
   gh_user: spydernaz
   repo: leanna
-  img: https://github.com/Spydernaz/spydernaz.github.io/blob/master/images/leanna.png
+  img: https://raw.githubusercontent.com/Spydernaz/spydernaz.github.io/master/images/leanna.png
   desc: A clean site with clean jokes, whats not to love
 
 - name: Docker Images
   gh_user: spydernaz
   repo: docker_images
-  img: https://github.com/Spydernaz/spydernaz.github.io/blob/master/images/docker_images.png
+  img: https://raw.githubusercontent.com/Spydernaz/spydernaz.github.io/master/images/docker_images.png
   desc: A repo of images I create, use and (attempt to) maintain including hadoop POCs and integrations as well as my own images
 
 - name: Peq - A Semantic Fabric
