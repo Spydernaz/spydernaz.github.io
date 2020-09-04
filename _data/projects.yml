@@ -1,10 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Joke Site
+  gh_user: spydernaz
+  repo: leanna
+  img: https://github.com/Spydernaz/spydernaz.github.io/blob/master/images/leanna.png
+  desc: A clean site with clean jokes, whats not to love
+
 - name: Docker Images
   gh_user: spydernaz
   repo: docker_images
-  img: https://repository-images.githubusercontent.com/218630645/65a39900-8fbe-11ea-811e-7289134404a0
+  img: https://github.com/Spydernaz/spydernaz.github.io/blob/master/images/docker_images.png
   desc: A repo of images I create, use and (attempt to) maintain including hadoop POCs and integrations as well as my own images
 
 - name: Peq - A Semantic Fabric
